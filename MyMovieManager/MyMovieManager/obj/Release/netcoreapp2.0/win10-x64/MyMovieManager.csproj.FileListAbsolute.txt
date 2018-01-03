@@ -1,0 +1,14 @@
+C:\Users\Piotr\source\repos\MyMovieManager\MyMovieManager\bin\Release\netcoreapp2.0\win10-x64\hostpolicy.dll
+C:\Users\Piotr\source\repos\MyMovieManager\MyMovieManager\bin\Release\netcoreapp2.0\win10-x64\hostfxr.dll
+C:\Users\Piotr\source\repos\MyMovieManager\MyMovieManager\bin\Release\netcoreapp2.0\win10-x64\MyMovieManager.exe
+C:\Users\Piotr\source\repos\MyMovieManager\MyMovieManager\bin\Release\netcoreapp2.0\win10-x64\MyMovieManager.dll.config
+C:\Users\Piotr\source\repos\MyMovieManager\MyMovieManager\bin\Release\netcoreapp2.0\win10-x64\MyMovieManager.deps.json
+C:\Users\Piotr\source\repos\MyMovieManager\MyMovieManager\bin\Release\netcoreapp2.0\win10-x64\MyMovieManager.runtimeconfig.json
+C:\Users\Piotr\source\repos\MyMovieManager\MyMovieManager\bin\Release\netcoreapp2.0\win10-x64\MyMovieManager.runtimeconfig.dev.json
+C:\Users\Piotr\source\repos\MyMovieManager\MyMovieManager\bin\Release\netcoreapp2.0\win10-x64\MyMovieManager.dll
+C:\Users\Piotr\source\repos\MyMovieManager\MyMovieManager\bin\Release\netcoreapp2.0\win10-x64\MyMovieManager.pdb
+C:\Users\Piotr\source\repos\MyMovieManager\MyMovieManager\obj\Release\netcoreapp2.0\win10-x64\MyMovieManager.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\MyMovieManager\MyMovieManager\obj\Release\netcoreapp2.0\win10-x64\MyMovieManager.AssemblyInfoInputs.cache
+C:\Users\Piotr\source\repos\MyMovieManager\MyMovieManager\obj\Release\netcoreapp2.0\win10-x64\MyMovieManager.AssemblyInfo.cs
+C:\Users\Piotr\source\repos\MyMovieManager\MyMovieManager\obj\Release\netcoreapp2.0\win10-x64\MyMovieManager.dll
+C:\Users\Piotr\source\repos\MyMovieManager\MyMovieManager\obj\Release\netcoreapp2.0\win10-x64\MyMovieManager.pdb

@@ -1,0 +1,12 @@
+C:\Users\Piotr\source\repos\MyMovieManager\MyMovieManager\bin\Debug\netcoreapp2.0\MyMovieManager.deps.json
+C:\Users\Piotr\source\repos\MyMovieManager\MyMovieManager\bin\Debug\netcoreapp2.0\MyMovieManager.runtimeconfig.json
+C:\Users\Piotr\source\repos\MyMovieManager\MyMovieManager\bin\Debug\netcoreapp2.0\MyMovieManager.runtimeconfig.dev.json
+C:\Users\Piotr\source\repos\MyMovieManager\MyMovieManager\bin\Debug\netcoreapp2.0\MyMovieManager.dll
+C:\Users\Piotr\source\repos\MyMovieManager\MyMovieManager\obj\Debug\netcoreapp2.0\MyMovieManager.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\source\repos\MyMovieManager\MyMovieManager\obj\Debug\netcoreapp2.0\MyMovieManager.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\MyMovieManager\MyMovieManager\obj\Debug\netcoreapp2.0\MyMovieManager.AssemblyInfoInputs.cache
+C:\Users\Piotr\source\repos\MyMovieManager\MyMovieManager\obj\Debug\netcoreapp2.0\MyMovieManager.AssemblyInfo.cs
+C:\Users\Piotr\source\repos\MyMovieManager\MyMovieManager\bin\Debug\netcoreapp2.0\MyMovieManager.dll.config
+C:\Users\Piotr\source\repos\MyMovieManager\MyMovieManager\bin\Debug\netcoreapp2.0\MyMovieManager.pdb
+C:\Users\Piotr\source\repos\MyMovieManager\MyMovieManager\obj\Debug\netcoreapp2.0\MyMovieManager.dll
+C:\Users\Piotr\source\repos\MyMovieManager\MyMovieManager\obj\Debug\netcoreapp2.0\MyMovieManager.pdb

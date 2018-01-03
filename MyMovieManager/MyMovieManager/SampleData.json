@@ -1,0 +1,58 @@
+﻿[
+  {
+    "Title": "Night of the Lepus",
+    "Price": 50,
+    "OriginalLanguage": "English",
+    "Orders": [
+      {
+        "CustomerID": 1,
+        "OrderDate": "01/06/2017",
+        "Customer": {
+          "FirstName": "John",
+          "LastName": "Abney"
+        }
+      }
+    ]
+  },
+  {
+    "Title": "Pirates of the Caribbean",
+    "Price": 11,
+    "OriginalLanguage": "English"
+  },
+  {
+    "Title": "Your Name",
+    "Price": 30,
+    "OriginalLanguage": "Japanese",
+    "Orders": [
+      {
+        "CustomerID": 2,
+        "OrderDate": "01/08/2017",
+        "Customer": {
+          "FirstName": "Mike",
+          "LastName": "Acker"
+        }
+      }
+    ]
+  },
+  {
+    "Title": "Kiler",
+    "Price": 5,
+    "OriginalLanguage": "Polish"
+  },
+  {
+    "Title": "Taxi",
+    "Price": 3,
+    "OriginalLanguage": "French",
+    "Orders": [
+      {
+        "CustomerID": 1,
+        "OrderDate": "01/01/2018"
+      }
+    ]
+  },
+  {
+    "Title": "Inception",
+    "Price": 10,
+    "OriginalLanguage": "English"
+  }
+]
