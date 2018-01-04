@@ -1,5 +1,5 @@
 # .NET CORE 2 MyMovieManager Console Application
-This is a console application .NET CORE 2 for CRUD(Create,Read,Update,Delete) operations on local database.
+This is a console application .NET CORE 2 for CRUD(Create,Read,Update,Delete) operations on local database MyMovieManager.
 
 ## Software Requirements
 * Visual Studio 2017 Community 15.3.3 (or higher) for Windows.
